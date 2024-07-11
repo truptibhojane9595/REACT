@@ -1,0 +1,15 @@
+
+.morning {
+  background-color: #ffeb3b;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.morning h1 {
+  color: #ff9800;
+}
+
+.morning p {
+  color: #f57c00;
+}

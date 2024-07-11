@@ -1,0 +1,147 @@
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .form-container, .biodata-container {
+    width: 45%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f9f9f9;
+  }
+  
+  form div, .biodata-container div {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+    font-weight: bold;
+  }
+  
+  input[type="text"], input[type="file"], textarea {
+    width: calc(100% - 110px);
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  button {
+    margin-left: 10px;
+    padding: 8px 12px;
+    border-radius: 4px;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  
+  .hobby-list {
+    margin-top: 10px;
+  }
+  
+  .hobby-item {
+    margin: 5px 0;
+    padding-left: 15px;
+    position: relative;
+  }
+  
+  .hobby-item:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: #3498db;
+    border-radius: 50%;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  p, ul {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555;
+  }
+  
+  p strong {
+    color: #000;
+  }
+  
+  ul.hobby-list {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  ul.hobby-list li {
+    margin: 5px 0;
+    padding-left: 15px;
+    position: relative;
+  }
+  
+  ul.hobby-list li:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 8px;
+    height: 8px;
+    background-color: #3498db;
+    border-radius: 50%;
+  }
+  
+  .profile-picture {
+    display: block;
+    margin-bottom: 15px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+  }  */
+  
+
+/* //.................................................................................................. */
+  
+
+    .container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .form-container {
+    width: 45%;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+  
+  .profile-container {
+    width: 45%;
+    padding: 20px;
+    border: 1px solid #000;
+  }
+  
+  .profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  } 
+  
